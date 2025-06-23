@@ -1,10 +1,5 @@
-<h1 align="center">
-  <img src="https://i.imgur.com/kY8X4kU.png" alt="Ícone de Circuitos" width="60" style="vertical-align: middle;"/>
-  Lógica Digital (DCE119)
-</h1>
-
 <p align="center">
-  <strong>Universidade Federal de Alfenas (Unifal-MG)</strong><br>
+   <strong>Universidade Federal de Alfenas (Unifal-MG)</strong><br>
    <strong>Curso:</strong> Ciência da Computação (08) <br>
    <strong>Ano/Semestre:</strong> 2025 / Primeiro <br>
    <strong>Professor:</strong> Eliseu César Miguel 
