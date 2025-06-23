@@ -27,19 +27,19 @@
 O conteúdo da disciplina está dividido em quatro unidades principais:
 
 ### Unidade I: Sistemas de Numeração e Representação de Dados
--  **Tópicos:** Bases numéricas [cite: 10]  e conversão entre elas [cite: 11] ; representação de números inteiros sem e com sinal (Sinal de Magnitude, Complemento de Um, Complemento de Dois) [cite: 12] ; padrão IEEE 754 para ponto flutuante   e operações elementares com números binários e em Complemento de Dois. 
+-  **Tópicos:** Bases numéricas e conversão entre elas; representação de números inteiros sem e com sinal (Sinal de Magnitude, Complemento de Um, Complemento de Dois); padrão IEEE 754 para ponto flutuante e operações elementares com números binários e em Complemento de Dois. 
 -  **Objetivo:** Ao final da unidade, o estudante deverá ser capaz de reconhecer, converter e utilizar as diferentes bases numéricas, bem como compreender a representação de números de ponto fixo e flutuante nos sistemas computacionais. 
 
 ### Unidade II: Fundamentos de Lógica
--  **Tópicos:** Valores, variáveis, conectivos e expressões lógicas [cite: 25] ; tabelas verdade e suas aplicações [cite: 26] ; equivalências lógicas [cite: 27] ; expressões canônicas, tautologias e contradições [cite: 28] ; e aplicação de leis e postulados lógicos para simplificação. 
+-  **Tópicos:** Valores, variáveis, conectivos e expressões lógicas; tabelas verdade e suas aplicações; equivalências lógicas; expressões canônicas, tautologias e contradições; e aplicação de leis e postulados lógicos para simplificação. 
 -  **Objetivo:** Ao final da unidade, o estudante deverá ser capaz de identificar, simplificar e manipular expressões lógicas, bem como propor sistemas lógicos para solucionar problemas reais. 
 
 ### Unidade III: Representação e Simplificação de Expressões Lógicas
--  **Tópicos:** Representação de expressões por Diagramas de Venn [cite: 34] , Portas Lógicas e Circuitos Lógicos [cite: 35] , e Mapas de Karnaugh.  Técnicas de simplificação de expressões por Mapas de Karnaugh, sistema algébrico, tabelas verdade e diagramas de Venn. 
+-  **Tópicos:** Representação de expressões por Diagramas de Venn, Portas Lógicas e Circuitos Lógicos, e Mapas de Karnaugh.  Técnicas de simplificação de expressões por Mapas de Karnaugh, sistema algébrico, tabelas verdade e diagramas de Venn. 
 -  **Objetivo:** Ao final desta unidade, o estudante deverá ser capaz de representar, identificar e simplificar as expressões lógicas por Diagramas de Venn, Portas Lógicas e Mapas de Karnaugh, além de fazer uso de softwares de simulação. 
 
 ### Unidade IV: Elementos Fundamentais da Eletrônica Digital
--  **Tópicos:** Circuitos Dedicados Clássicos (codificadores, decodificadores, multiplexadores, demultiplexadores, somadores, deslocadores) [cite: 45] ; estrutura interna de Latchs e Flip-Flops[cite: 52];  Circuitos Sequenciais Clássicos (contadores e registradores) [cite: 53] ; e organização básica de memórias, incluindo seleção de palavras, leitura e escrita. 
+-  **Tópicos:** Circuitos Dedicados Clássicos (codificadores, decodificadores, multiplexadores, demultiplexadores, somadores, deslocadores); estrutura interna de Latchs e Flip-Flops; Circuitos Sequenciais Clássicos (contadores e registradores); e organização básica de memórias, incluindo seleção de palavras, leitura e escrita. 
 -  **Objetivo:** Ao final desta unidade, o estudante deverá ser capaz de propor soluções para problemas de hardware e software com uso dos circuitos clássicos da eletrônica digital. 
 
 ---
@@ -64,5 +64,5 @@ O conteúdo da disciplina está dividido em quatro unidades principais:
 ---
 
 <p align="center">
-  Este README foi gerado com base no Programa de Ensino da disciplina, fornecido pela Universidade Federal de Alfenas.
+  Este README foi criado com base no Programa de Ensino da disciplina, fornecido por Eliseu César Miguel e pela Universidade Federal de Alfenas.
 </p>
