@@ -1,6 +1,6 @@
 <p align="center">
    <strong>Universidade Federal de Alfenas (Unifal-MG)</strong><br>
-   <strong>Curso:</strong> Ciência da Computação (08) <br>
+   <strong>Curso:</strong> Ciência da Computação (BCC) <br>
    <strong>Ano/Semestre:</strong> 2025 / Primeiro <br>
    <strong>Professor:</strong> Eliseu César Miguel 
 </p>
