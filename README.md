@@ -1,7 +1,7 @@
 <p align="center">
    <strong>Universidade Federal de Alfenas (Unifal-MG)</strong><br>
    <strong>Curso:</strong> Ciência da Computação (BCC) <br>
-   <strong>Ano/Semestre:</strong> 2025 / Primeiro <br>
+   <strong>Ano/Semestre:</strong> 2025 / Primeiro<br>
    <strong>Professor:</strong> Eliseu César Miguel 
 </p>
 
@@ -59,5 +59,5 @@ O conteúdo da disciplina está dividido em quatro unidades principais:
 ---
 
 <p align="center">
-  Este README foi criado com base no Programa de Ensino da disciplina, fornecido por Eliseu César Miguel e pela Universidade Federal de Alfenas.
+  Este README foi criado com base no Programa de Ensino da disciplina.
 </p>
